@@ -1,1 +1,1 @@
-[js-xlsx](https://github.com/SheetJS/js-xlsx/blob/master/README.md):
+[js-xlsx](https://github.com/SheetJS/js-xlsx/blob/master/README.md)
